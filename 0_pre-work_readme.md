@@ -4,9 +4,9 @@
 `TODO://`An app that can change background color, text, and text color with the help of Codepath tutorials
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://i.imgur.com/w3KoWE8.gif" width=400 height=200><br>
+
+<img src="https://i.imgur.com/w3KoWE8.gif" width=400 height=300><br>
 
 
 
